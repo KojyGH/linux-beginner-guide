@@ -98,7 +98,7 @@ drwxr-xr-x. 3 kojy kojy 4,0K  2 ago 20.50 Video
 ```
 You can use ```ls -lS``` to sort the output by size:
 ```
-[root@ryzen-chan kojy]# ls -lS
+[kojy@linux kojy]# ls -lS
 totale 32
 drwxr-xr-x. 7 kojy kojy 4096  5 ago 17.56 Documenti
 drwxr-xr-x. 3 kojy kojy 4096  6 ago 15.03 Immagini
